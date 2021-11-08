@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #A7ACB0;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	background-color: #65727c;
+	text-decoration: underline;
+}
+
+h3{
+	background-color: #B6B7BB;
+}
+
+div{
+	background-color: #BDBDC0;
+}
+
+span{
+	color: blue;
+}
+
+footer{
+	background-color: white; 
+	text-align: end;
+}
